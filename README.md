@@ -1,2 +1,2 @@
 # Object-oriented-Programming
-Directory with all scripts written during 1 year course.
+Directory with scripts written during 1 year course (code quality can be bad).
