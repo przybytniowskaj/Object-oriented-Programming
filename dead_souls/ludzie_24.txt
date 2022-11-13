@@ -1,0 +1,4 @@
+Person [Name [firstName=Barbara, secondName=null], Surname [surname=Nowakowska, surnamePopularity=0.18], sex=female, age=24]
+Person [Name [firstName=Zofia, secondName=null], Surname [surname=Wiœniewska, surnamePopularity=0.65], sex=female, age=24]
+Person [Name [firstName=Anna, secondName=Natalia], Surname [surname=Zieliñska, surnamePopularity=0.5], sex=female, age=24]
+Person [Name [firstName=Ewa, secondName=null], Surname [surname=Wiœniewska, surnamePopularity=0.65], sex=female, age=24]

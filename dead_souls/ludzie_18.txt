@@ -1,0 +1,5 @@
+Person [Name [firstName=Stanis³aw, secondName=null], Surname [surname=Paw³owski, surnamePopularity=0.22], sex=male, age=18]
+Person [Name [firstName=Marcin, secondName=Stefan], Surname [surname=Nowak, surnamePopularity=1.0], sex=male, age=18]
+Person [Name [firstName=Micha³, secondName=null], Surname [surname=Król, surnamePopularity=0.19], sex=male, age=18]
+Person [Name [firstName=Marek, secondName=Jurek], Surname [surname=Paw³owski, surnamePopularity=0.22], sex=male, age=18]
+Person [Name [firstName=Katarzyna, secondName=null], Surname [surname=Wojciechowska, surnamePopularity=0.42], sex=female, age=18]

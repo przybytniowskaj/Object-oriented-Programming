@@ -1,0 +1,6 @@
+Person [Name [firstName=Stanis³aw, secondName=null], Surname [surname=Kowalczyk, surnamePopularity=0.62], sex=male, age=21]
+Person [Name [firstName=Krystyna, secondName=Dominika], Surname [surname=Lewandowska, surnamePopularity=0.61], sex=female, age=21]
+Person [Name [firstName=Krystyna, secondName=Dominika], Surname [surname=Koz³owska, surnamePopularity=0.43], sex=female, age=21]
+Person [Name [firstName=Stanis³aw, secondName=null], Surname [surname=Nowak, surnamePopularity=1.0], sex=male, age=21]
+Person [Name [firstName=Tomasz, secondName=null], Surname [surname=Zaj¹c, surnamePopularity=0.21], sex=male, age=21]
+Person [Name [firstName=El¿bieta, secondName=null], Surname [surname=Michalska, surnamePopularity=0.22], sex=female, age=21]

@@ -1,0 +1,2 @@
+Person [Name [firstName=Micha³, secondName=null], Surname [surname=Kwiatkowski, surnamePopularity=0.41], sex=male, age=19]
+Person [Name [firstName=Ewa, secondName=null], Surname [surname=Kamiñska, surnamePopularity=0.62], sex=female, age=19]

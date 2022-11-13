@@ -1,0 +1,4 @@
+Person [Name [firstName=Marek, secondName=Jurek], Surname [surname=Mazur, surnamePopularity=0.39], sex=male, age=25]
+Person [Name [firstName=Marcin, secondName=Stefan], Surname [surname=Woüniak, surnamePopularity=0.45], sex=male, age=25]
+Person [Name [firstName=Marek, secondName=Jurek], Surname [surname=Zajπc, surnamePopularity=0.21], sex=male, age=25]
+Person [Name [firstName=Stanis≥aw, secondName=null], Surname [surname=Mazur, surnamePopularity=0.39], sex=male, age=25]
